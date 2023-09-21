@@ -1,0 +1,17 @@
+[{
+  "_id": 1,
+  "skill": "AWS",
+  "subskills": [
+    "s3"
+  ],
+  "__v": 0
+},
+{
+  "_id": 2,
+  "skill": "JAVA",
+  "subskills": [
+    "Collections",
+    "OOPS"
+  ],
+  "__v": 0
+}]

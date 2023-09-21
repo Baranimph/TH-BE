@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "64f57b0949752ab647306903"
+  },
+  "Managername": "Alamelu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f57b1449752ab647306905"
+  },
+  "Managername": "Suresh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f57b1f49752ab647306907"
+  },
+  "Managername": "Sengamalam",
+  "__v": 0
+}]

@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "64eed9f9fa98b23d8202cef4"
+  },
+  "question": "What is Java?",
+  "questionType": "Text",
+  "skills": "JAVA",
+  "__v": 0,
+  "Difficulty_Level": "E"
+},
+{
+  "_id": {
+    "$oid": "64eeeaea98d76bfd5574a0dd"
+  },
+  "question": "Which component is used to compile, debug and execute the java programs?",
+  "questionType": "Text",
+  "skills": "JAVA",
+  "__v": 0,
+  "Difficulty_Level": "M"
+},
+{
+  "_id": {
+    "$oid": "64eeeaf498d76bfd5574a0e1"
+  },
+  "question": "What is the extension of java code files?",
+  "questionType": "Text",
+  "skills": "JAVA",
+  "__v": 0,
+  "Difficulty_Level": "E"
+},
+{
+  "_id": {
+    "$oid": "64eeeb0898d76bfd5574a0e3"
+  },
+  "question": "Which environment variable is used to set the java path?",
+  "questionType": "Checkbox",
+  "options": [
+    "Not a Object oriented programming language",
+    "Object oriented programming language",
+    "JDK",
+    "Both A and B"
+  ],
+  "skills": "JAVA",
+  "__v": 0,
+  "Difficulty_Level": "M"
+},
+{
+  "_id": {
+    "$oid": "64eeeb5b98d76bfd5574a0e5"
+  },
+  "question": "Which of the following is not an OOPS concept in Java?",
+  "questionType": "Checkbox",
+  "options": [
+    "Not a Object oriented programming language",
+    "Object oriented programming language",
+    "Polymorphism",
+    "Both A and B"
+  ],
+  "skills": "JAVA",
+  "__v": 0,
+  "Difficulty_Level": "H"
+},
+{
+  "_id": {
+    "$oid": "64eeeb6898d76bfd5574a0e7"
+  },
+  "question": "Which of the following is a type of polymorphism in Java Programming?",
+  "questionType": "Radio",
+  "options": [
+    "Not a Object oriented programming language",
+    "Object oriented programming language",
+    "Copying Objects",
+    "Both A and B"
+  ],
+  "skills": "JAVA",
+  "__v": 0,
+  "Difficulty_Level": "E"
+},
+{
+  "_id": {
+    "$oid": "64eeeb7298d76bfd5574a0e9"
+  },
+  "question": "What is Truncation in Java?",
+  "questionType": "Checkbox",
+  "options": [
+    "Not a Object oriented programming language",
+    "Object oriented programming language",
+    "Both A and B",
+    "Delete"
+  ],
+  "skills": "JAVA",
+  "__v": 0,
+  "Difficulty_Level": "M"
+},
+{
+  "_id": {
+    "$oid": "64eeeb7998d76bfd5574a0eb"
+  },
+  "question": "Which exception is thrown when java is out of memory?",
+  "questionType": "Radio",
+  "options": [
+    "Not a Object oriented programming language",
+    "Project Oriented Language",
+    "Both A and B",
+    "Object oriented programming language"
+  ],
+  "skills": "JAVA",
+  "__v": 0,
+  "Difficulty_Level": "M"
+},
+{
+  "_id": {
+    "$oid": "64f32f66ffb31b7571950afa"
+  },
+  "question": "Which component is used to compile, debug and execute the java programs?",
+  "questionType": "Radio",
+  "options": [
+    "JVM",
+    "JRE",
+    "JDK",
+    "JVK"
+  ],
+  "skills": "JAVA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64eeea1798d76bfd5574a0d1"
+  },
+  "question": "What is AWS?",
+  "questionType": "Radio",
+  "options": [
+    "Easy",
+    "Medium",
+    "Platform",
+    "Both A and B"
+  ],
+  "skills": "AWS",
+  "__v": 0,
+  "Difficulty_Level": "E"
+},
+{
+  "_id": {
+    "$oid": "64eeea1d98d76bfd5574a0d3"
+  },
+  "question": "Which of the following are the advantages of AWS?",
+  "questionType": "Checkbox",
+  "options": [
+    "Not a Object oriented programming language",
+    "Object oriented programming language",
+    "Efficiency",
+    "Speed"
+  ],
+  "skills": "AWS",
+  "__v": 0,
+  "Difficulty_Level": "M"
+},
+{
+  "_id": {
+    "$oid": "64eeea2398d76bfd5574a0d5"
+  },
+  "question": "What is region in AWS?",
+  "questionType": "Radio",
+  "options": [
+    "Not a Object oriented programming language",
+    "North",
+    "East Asia",
+    "Object oriented programming language"
+  ],
+  "skills": "AWS",
+  "__v": 0,
+  "Difficulty_Level": "E"
+},
+{
+  "_id": {
+    "$oid": "64eeea2d98d76bfd5574a0d7"
+  },
+  "question": "What is the availability zone in AWS?",
+  "questionType": "Checkbox",
+  "options": [
+    "Not a Object oriented programming language",
+    "Strange Zone",
+    "Object oriented programming language",
+    "All of the Above"
+  ],
+  "skills": "AWS",
+  "__v": 0,
+  "Difficulty_Level": "H"
+},
+{
+  "_id": {
+    "$oid": "64eeeb8d98d76bfd5574a0ed"
+  },
+  "question": "How many buckets can you create in AWS by default?",
+  "questionType": "Text",
+  "skills": "AWS",
+  "__v": 0,
+  "Difficulty_Level": "E"
+},
+{
+  "_id": {
+    "$oid": "64eeeb9398d76bfd5574a0ef"
+  },
+  "question": "Amazon Web Services falls into which of the following cloud-computing category?",
+  "questionType": "Text",
+  "skills": "AWS",
+  "__v": 0,
+  "Difficulty_Level": "M"
+},
+{
+  "_id": {
+    "$oid": "64f33201ffb31b7571950afc"
+  },
+  "question": "Which component is used to compile, debug and execute the AWS programs?",
+  "questionType": "Radio",
+  "options": [
+    "Easy",
+    "Medium",
+    "Platform",
+    "Both A and B"
+  ],
+  "skills": "AWS",
+  "__v": 0,
+  "Difficulty_Level": "H"
+},
+{
+  "_id": {
+    "$oid": "64f95e4e92afa8264eda6565"
+  },
+  "question": "Which of the following are the advantages of AWS?",
+  "questionType": "Checkbox",
+  "options": [
+    "Not a Object oriented programming language",
+    "Object oriented programming language",
+    "Efficiency",
+    "Speed"
+  ],
+  "skills": "AWS",
+  "Difficulty_Level": "M",
+  "__v": 0
+}]
